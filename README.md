@@ -2,7 +2,7 @@
 <h2>Project Link: <a href='https://hopeful-poincare-30c654.netlify.com/'><i>here</i></a></h2>
 <hr/>
 final version example
-<img src='./project2.png' alt='final example' />
+<img src='./src/project2.png' alt='final example' />
 
 This project is created using React.
 <pre>  User can display different sounds by clicking mouse and keyboard.
